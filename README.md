@@ -1,1 +1,3 @@
-# semana-omnistack-10
+Projeto desenvolvido na 10ª edição da semana Omnistack da Rocketseat, onde foi desenvolvido um servidor web com Node.js, o front-end web foi utilizado React JS e para a parte mobile foi utilizado React Native.
+
+O projeto tem objetivo de encontrar desenvolvedores que possuem conhecimentos em alguma tecnologia. Através da web, o dev se cadastrada na plataforma utilizando o seu nome do github e quais as tecnologias que ele possui conhecimento. Já no mobile, o recrutador irá pesquisar pelas tecnologias desejadas que ele gostaria de encontrar em algum dev e a partir da localização do recrutador, irá ser verificado em um raio de 10km, todos os devs que se cadastraram na região em que o recrutador está realizando a busca e se as suas tecnologias são compatíveis.
